@@ -1,0 +1,8 @@
+/build
+/node_modules
+/public
+/src
+.env
+package-lock.json
+package.json
+README.md
